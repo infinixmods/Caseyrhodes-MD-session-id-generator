@@ -60,18 +60,18 @@ router.get('/', async (req, res) => {
 	
 				   let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+┃CASEYRHODES MD_V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ DAVID CYRIL ⚡𖥘
+❶ || Creator = 𖥘⚡ CASEYRHODES ⚡𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/2349066528353
+❸ || Owner = https://wa.me/254112192119
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+©*2024-2099 Caseyrhodes the donn*
        `
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 

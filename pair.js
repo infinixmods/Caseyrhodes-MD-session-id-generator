@@ -58,18 +58,18 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃CASEYRHODES_MD_V2 SESSION IS 
+┃POPKID_V2 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘⚡ CASEYRHODES ⚡𖥘
+❶ || Creator = 🧑‍🚀🩸 POPKID 🩸🧑‍🚀
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/254112192119
+❸ || Owner = https://wa.me/254111385747
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Casyrhodes the donn*`
+©*POPKID*`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
